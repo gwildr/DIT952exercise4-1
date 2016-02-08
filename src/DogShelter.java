@@ -1,6 +1,7 @@
 /**
  * Created by Niklas on 2016-02-07.
- */
+ *//*
+ *This is not needed anymore
 public class DogShelter extends AnimalShelter {
 
     @Override
@@ -12,3 +13,4 @@ public class DogShelter extends AnimalShelter {
         super.putAnimal(dog);
     }
 }
+*/
